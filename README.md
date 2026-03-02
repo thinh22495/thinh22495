@@ -18,7 +18,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="#"><img width="400" height="1" /></a>
 
 ### &nbsp;&nbsp;&nbsp;🧑‍💻 Giới Thiệu
 
@@ -30,10 +29,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Ngoài Backend, tôi cũng có khả năng phát triển<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Frontend khi cần thiết &mdash; đảm bảo giao sản phẩm<br>
 &nbsp;&nbsp;&nbsp;&nbsp;end-to-end một cách độc lập.
+<img width="400" height="1" />
 
 </td>
 <td width="50%" valign="top">
-<a href="#"><img width="400" height="1" /></a>
 
 ### &nbsp;&nbsp;&nbsp;🧑‍💻 About Me
 
@@ -45,6 +44,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Beyond Backend, I'm also capable of handling<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Frontend development when needed &mdash; delivering<br>
 &nbsp;&nbsp;&nbsp;&nbsp;end-to-end products independently.
+<img width="400" height="1" />
 
 </td>
 </tr>
@@ -57,7 +57,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="#"><img width="400" height="1" /></a>
 
 ### &nbsp;&nbsp;&nbsp;🎯 Nguyên Tắc Cốt Lõi
 
@@ -66,10 +65,10 @@
 - &nbsp;**Phát triển hướng kiểm thử (TDD)** &mdash; Viết test trước,<br>&nbsp;&nbsp;&nbsp;&nbsp;đảm bảo code coverage và giảm thiểu bug trên production
 - &nbsp;**Hạ tầng dưới dạng mã nguồn (IaC)** &mdash; Quản lý<br>&nbsp;&nbsp;&nbsp;&nbsp;infrastructure bằng code, tự động hoá triển khai CI/CD
 - &nbsp;**Học hỏi liên tục** &mdash; Luôn cập nhật công nghệ mới,<br>&nbsp;&nbsp;&nbsp;&nbsp;chủ động nghiên cứu và áp dụng best practices
+<img width="400" height="1" />
 
 </td>
 <td width="50%" valign="top">
-<a href="#"><img width="400" height="1" /></a>
 
 ### &nbsp;&nbsp;&nbsp;🎯 Core Principles
 
@@ -78,6 +77,7 @@
 - &nbsp;**Test-Driven Development** &mdash; Write tests first,<br>&nbsp;&nbsp;&nbsp;&nbsp;ensure code coverage and minimize production bugs
 - &nbsp;**Infrastructure as Code** &mdash; Manage infrastructure<br>&nbsp;&nbsp;&nbsp;&nbsp;through code, automate CI/CD deployment pipelines
 - &nbsp;**Continuous Learning** &mdash; Stay up to date with new<br>&nbsp;&nbsp;&nbsp;&nbsp;technologies, proactively research and apply best practices
+<img width="400" height="1" />
 
 </td>
 </tr>
@@ -90,7 +90,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="#"><img width="400" height="1" /></a>
 
 ### &nbsp;&nbsp;&nbsp;⚡ Lĩnh Vực Chuyên Môn
 
@@ -108,10 +107,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Frontend** *(khi cần thiết)*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>React, HTML/CSS, JavaScript/TypeScript,<br>&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS, responsive design</sub>
+<img width="400" height="1" />
 
 </td>
 <td width="50%" valign="top">
-<a href="#"><img width="400" height="1" /></a>
 
 ### &nbsp;&nbsp;&nbsp;⚡ Areas of Expertise
 
@@ -129,6 +128,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Frontend** *(when needed)*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>React, HTML/CSS, JavaScript/TypeScript,<br>&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS, responsive design</sub>
+<img width="400" height="1" />
 
 </td>
 </tr>
