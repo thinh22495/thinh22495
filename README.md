@@ -18,8 +18,9 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="#"><img width="400" height="1" /></a>
 
-### &nbsp;&nbsp;&nbsp;Giới Thiệu
+### &nbsp;&nbsp;&nbsp;🧑‍💻 Giới Thiệu
 
 &nbsp;&nbsp;&nbsp;&nbsp;Kỹ sư Backend với đam mê xây dựng các hệ thống<br>
 &nbsp;&nbsp;&nbsp;&nbsp;phân tán hiệu suất cao, có khả năng chịu lỗi tốt.<br>
@@ -32,8 +33,9 @@
 
 </td>
 <td width="50%" valign="top">
+<a href="#"><img width="400" height="1" /></a>
 
-### &nbsp;&nbsp;&nbsp;About Me
+### &nbsp;&nbsp;&nbsp;🧑‍💻 About Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;Backend engineer passionate about building<br>
 &nbsp;&nbsp;&nbsp;&nbsp;high-performance, fault-tolerant distributed systems.<br>
@@ -55,8 +57,9 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="#"><img width="400" height="1" /></a>
 
-### &nbsp;&nbsp;&nbsp;Nguyên Tắc Cốt Lõi
+### &nbsp;&nbsp;&nbsp;🎯 Nguyên Tắc Cốt Lõi
 
 - &nbsp;**Kiến trúc sạch & SOLID** &mdash; Thiết kế module rõ ràng,<br>&nbsp;&nbsp;&nbsp;&nbsp;dễ bảo trì, tuân thủ nguyên tắc SOLID và Clean Architecture
 - &nbsp;**Hiệu năng là ưu tiên** &mdash; Tối ưu từ truy vấn database,<br>&nbsp;&nbsp;&nbsp;&nbsp;caching đến thiết kế API để đạt throughput cao nhất
@@ -66,8 +69,9 @@
 
 </td>
 <td width="50%" valign="top">
+<a href="#"><img width="400" height="1" /></a>
 
-### &nbsp;&nbsp;&nbsp;Core Principles
+### &nbsp;&nbsp;&nbsp;🎯 Core Principles
 
 - &nbsp;**Clean Architecture & SOLID** &mdash; Clear modular design,<br>&nbsp;&nbsp;&nbsp;&nbsp;easy to maintain, following SOLID and Clean Architecture
 - &nbsp;**Performance-first** &mdash; Optimize from database queries,<br>&nbsp;&nbsp;&nbsp;&nbsp;caching to API design for maximum throughput
@@ -86,8 +90,9 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="#"><img width="400" height="1" /></a>
 
-### &nbsp;&nbsp;&nbsp;Lĩnh Vực Chuyên Môn
+### &nbsp;&nbsp;&nbsp;⚡ Lĩnh Vực Chuyên Môn
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Phát triển API**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>RESTful & GraphQL API, xác thực, phân quyền,<br>&nbsp;&nbsp;&nbsp;&nbsp;giới hạn truy cập, API gateway</sub>
@@ -106,8 +111,9 @@
 
 </td>
 <td width="50%" valign="top">
+<a href="#"><img width="400" height="1" /></a>
 
-### &nbsp;&nbsp;&nbsp;Areas of Expertise
+### &nbsp;&nbsp;&nbsp;⚡ Areas of Expertise
 
 &nbsp;&nbsp;&nbsp;&nbsp;**API Development**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>RESTful & GraphQL APIs, authentication,<br>&nbsp;&nbsp;&nbsp;&nbsp;authorization, rate limiting, API gateway</sub>
@@ -130,9 +136,9 @@
 
 <br>
 
-<!-- ===== TECH STACK / CONG NGHE ===== -->
+<!-- ===== TECH STACK ===== -->
 
-## <div align="center">Công Nghệ Sử Dụng &middot; <sub>Tech Stack</sub></div>
+## <div align="center">🛠️ Công Nghệ Sử Dụng &middot; Tech Stack</div>
 
 <table>
 <tr>
@@ -274,47 +280,3 @@
 </table>
 
 <br>
-
-<!-- ===== GITHUB ANALYTICS / THONG KE ===== -->
-
-## <div align="center">Thống Kê GitHub &middot; <sub>GitHub Analytics</sub></div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thinh22495&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&ring_color=7aa2f7" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=thinh22495&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=24292e&icon_color=0366d6&text_color=24292e" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thinh22495&layout=compact&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinh22495&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=24292e&text_color=24292e&langs_count=8" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=thinh22495&hide_border=true&background=1a1b27&stroke=24283b&ring=7aa2f7&fire=7aa2f7&currStreakNum=a9b1d6&sideNums=a9b1d6&currStreakLabel=7aa2f7&sideLabels=565f89&dates=565f89" />
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=thinh22495&hide_border=true&background=f6f8fa&stroke=d0d7de&ring=0366d6&fire=0366d6&currStreakNum=24292e&sideNums=24292e&currStreakLabel=0366d6&sideLabels=57606a&dates=57606a" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thinh22495&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=7aa2f7&area=true&area_color=7aa2f7&hide_border=true&custom_title=Contribution%20Graph" />
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thinh22495&bg_color=f6f8fa&color=24292e&line=0366d6&point=0366d6&area=true&area_color=0366d6&hide_border=true&custom_title=Contribution%20Graph" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thinh22495&style=for-the-badge&color=1a1b27&label=VISITORS" />
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:24283b,100:1a1b27&height=150&section=footer" width="100%" />
